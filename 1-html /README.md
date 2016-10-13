@@ -1,7 +1,5 @@
 # Intro to HTML
 
-Text text html...
-
 ## Task One
 
 1. Open the session_1 folder created in your text editor of choice (sublimetext, atom...)
