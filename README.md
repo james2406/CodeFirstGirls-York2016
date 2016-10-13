@@ -1,23 +1,27 @@
-# Code First: Girls (York 2016)
+# Welcome to Code First: Girls (York 2016)
 
-My personal portfolio created with React
+Hello, and welcome to web dev & Code First: Girls community
 
-[Link](https://james2406.github.io/Portfolio/src/)
+We are going to teach you the basics of how webpages work and also introduce you to programming for the web in 2016.
+Skills you'll practice include
+* [HTML]()
+* CSS
+* Github
+* Bootstrap
+* JavaScript
+* jQuery
 
-Technologies used in this project include:
-* React
-* React Router
-* Flux
-* Node
-* Webpack
-* Babel / ES6
-* Eslint
-* SASS
+good place
+after lesson
+see what covered
+catch up on exersises!
+If stuck, email me :)
 
+## Instructions
 
-## Development Installation
-
-Navigate to the project's directory
+1. Above you should see folders matching up to the relevant weeks
+2. Click into the folder 
+3. Download it...
 
 Run these commands
 
@@ -25,5 +29,3 @@ Run these commands
 $ npm install
 $ npm run dev
 ```
-
-Visit
