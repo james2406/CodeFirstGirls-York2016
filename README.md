@@ -17,15 +17,15 @@ see what covered
 catch up on exersises!
 If stuck, email me :)
 
+## Before You Begin
+
+1. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
+2. Create a folder within that called session_1. This will be used to store all of your files for this session
+
+Now we're ready to start making a website!
+
 ## Instructions
 
 1. Above you should see folders matching up to the relevant weeks
 2. Click into the folder 
 3. Download it...
-
-Run these commands
-
-```
-$ npm install
-$ npm run dev
-```
