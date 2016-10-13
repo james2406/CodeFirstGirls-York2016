@@ -19,9 +19,18 @@ Now we're ready to start making a website!
 3. Save this file as index.html in the session_1 folder
 4. Open index.html in your browser of choice (chrome, firefox...)
 
-```
-$ npm install
-$ npm run dev
-```
+We use index.html as our homepage as we may have other files in our folder, such as about.html and contact.html
 
-Visit
+When a user loads our site, they are automatically directed to our index file
+
+## Lesson One
+
+HTML uses a set of elements for different types of content, which defines their value/meaning
+
+For example, a "<p>" element indicates a paragraph and the "<img>" indicates an image
+
+These elements are known as tags. Tags are enclosed by angle brackets, and the closing tag begins with a forward slash
+
+```
+<h1>Hello World!</h1>
+```
