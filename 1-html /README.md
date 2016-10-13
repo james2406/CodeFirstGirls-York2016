@@ -2,16 +2,6 @@
 
 Text text html...
 
-[Link](https://drive.google.com/drive/u/0/folders/0B8JSxb3eE6WUblBwMFlvT2ZvSWs)
-
-## Before You Begin
-
-1. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
-2. Create a folder within that called session_1. This will be used to store all of your files for this session
-
-Now we're ready to start making a website!
-
-
 ## Task One
 
 1. Open the session_1 folder created in your text editor of choice (sublimetext, atom...)
@@ -19,17 +9,13 @@ Now we're ready to start making a website!
 3. Save this file as index.html in the session_1 folder
 4. Open index.html in your browser of choice (chrome, firefox...)
 
-We use index.html as our homepage as we may have other files in our folder, such as about.html and contact.html
+We use index.html as our homepage as we may have other files in our folder, such as about.html and contact.html. When a user loads our site, they are automatically directed to our index file
 
-When a user loads our site, they are automatically directed to our index file
+## Lesson One - tags
 
-## Lesson One
+HTML uses a set of elements for different types of content, which defines their value/meaning. For example, a "&lt;p&gt;" element indicates a paragraph and the "&lt;img&gt;" indicates an image
 
-HTML uses a set of elements for different types of content, which defines their value/meaning
-
-For example, a "&lt;p&gt;" element indicates a paragraph and the "&lt;img&gt;" indicates an image
-
-These elements are known as tags. Tags are enclosed by angle brackets (&lt;&gt;), and the closing tag begins with a forward slash
+These elements are known as tags. Tags are enclosed by angle brackets (&lt;&gt;), and the closing tag begins with a forward slash. For example
 
 ```
 <h1>Hello World!</h1>
@@ -40,3 +26,51 @@ Some tags close by defalt. An example of this is the &lt;img&gt; tag
 ```
 <img src="imageOne.jpg" alt="Image One">
 ```
+
+Finally, we can give our tags attributes, that can server various different purposes. In the case below, our attribute is giving our tag an id
+
+```
+<div id="main"></div>
+```
+
+## Lesson Two - formmating
+
+Formatting is generally up to ther programmer when it comes to html however, the common practice is to nest tags that are present within other tags. So instead of this
+
+```
+<div id="main"><h1>Title</h1><h2>subtitle</h2></div>
+```
+
+The valid way would be to present it like this
+
+```
+<div id="main">
+  <h1>Title</h1>
+  <h2>subtitle</h2>
+</div>
+```
+
+Much easier to read!
+
+## Lesson Three - the HTML DOM
+
+The Document Object Model (DOM) specifies the hierarchical layout of the HTML document, and is the agreed interface (that is platform / language independent). In other words, it tells the browser where to look for a specific parts to the document
+
+Every HTML5 document requires this layout
+
+```
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Page title</title>
+    </head>
+    
+  <body>
+    ( html goes here! )
+  </body>
+</html>
+```
+
+And each element/tag does the following:
+1. dk
+2. m
