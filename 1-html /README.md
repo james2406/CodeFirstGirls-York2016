@@ -27,9 +27,9 @@ When a user loads our site, they are automatically directed to our index file
 
 HTML uses a set of elements for different types of content, which defines their value/meaning
 
-For example, a "<p>" element indicates a paragraph and the "<img>" indicates an image
+For example, a "&lt;p&gt;" element indicates a paragraph and the "&lt;img&gt;" indicates an image
 
-These elements are known as tags. Tags are enclosed by angle brackets, and the closing tag begins with a forward slash
+These elements are known as tags. Tags are enclosed by angle brackets (&lt;&gt;), and the closing tag begins with a forward slash
 
 ```
 <h1>Hello World!</h1>
