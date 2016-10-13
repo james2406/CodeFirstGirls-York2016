@@ -81,7 +81,7 @@ And each element/tag does the following:
 
 ## Task Two
 
-1. Scroll to the top and click 'Clone or download'
+1. Download this link https://github.com/james2406/CodeFirstGirls-York2016/1-html.git
 2. Download the code into your session_1 folder (by clicking 'Download ZIP' in the bottom right)
 3. Extract the zip file and delete the zip
 4. Open the the session_1 folder in your text editor
