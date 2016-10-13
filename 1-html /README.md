@@ -81,10 +81,10 @@ And each element/tag does the following:
 
 ## Task Two
 
-1. Download this link https://github.com/james2406/CodeFirstGirls-York2016/archive/master/1-html.zip
-2. Download the code into your session_1 folder (by clicking 'Download ZIP' in the bottom right)
+1. [Download this link](https://github.com/code61/learning_html/archive/master.zip)
 3. Extract the zip file and delete the zip
-4. Open the the session_1 folder in your text editor
-5. Open the file example.html in Chrome and look around with the developer tools
-6. Open the file notes.html in your text editor.
-7. Change notes.html into valid html so that it looks like notes_solution.jpg
+4. Move those files to your session_1 folder
+5. Open the the session_1 folder in your text editor
+6. Open the file example.html in Chrome and look around with the developer tools
+7. Open the file notes.html in your text editor.
+8. Change notes.html into valid html so that it looks like notes_solution.jpg
