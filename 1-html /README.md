@@ -73,11 +73,11 @@ Every HTML5 document requires this layout
 
 And each element/tag does the following:
 
-1. The !DOCTYPE tells you what version of html you’re using
-2. Everything is wrapped in an &lt;html&gt; ... &lt;/html&gt; tag
-3. the &lt;head&gt; ... &lt;/head&gt; is used to provide information about the page
-4. the text within &lt;title&gt; ... &lt;/title&gt; will be displayed in the browser bar
-5. Only things within the &lt;body&gt; ... &lt;/body&gt; tags are displayed on the page
+* The !DOCTYPE tells you what version of html you’re using
+* Everything is wrapped in an &lt;html&gt; ... &lt;/html&gt; tag
+* the &lt;head&gt; ... &lt;/head&gt; is used to provide information about the page
+* the text within &lt;title&gt; ... &lt;/title&gt; will be displayed in the browser bar
+* Only things within the &lt;body&gt; ... &lt;/body&gt; tags are displayed on the page
 
 ## Task Two
 
