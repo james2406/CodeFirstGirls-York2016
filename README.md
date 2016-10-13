@@ -5,7 +5,7 @@ Hello, and welcome to web dev & Code First: Girls community
 We are going to teach you the basics of how webpages work and also introduce you to programming for the web in 2016.
 Skills you'll practice include
 * [HTML](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/1-html%20)
-* [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css%20)
+* [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css)
 * Github
 * Bootstrap
 * JavaScript
