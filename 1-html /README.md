@@ -2,6 +2,7 @@
 
 ## Task One
 
+1. Within your coding_course folder create a new folder called session_1
 1. Open the session_1 folder created in your text editor of choice (sublimetext, atom...)
 2. Write "Hello"
 3. Save this file as index.html in the session_1 folder
