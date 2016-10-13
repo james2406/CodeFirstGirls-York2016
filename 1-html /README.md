@@ -1,25 +1,13 @@
-# Code First: Girls (York 2016)
+# Intro to HTML
 
-My personal portfolio created with React
+Text text html...
 
-[Link](https://james2406.github.io/Portfolio/src/)
+[Link](https://drive.google.com/drive/u/0/folders/0B8JSxb3eE6WUblBwMFlvT2ZvSWs)
 
-Technologies used in this project include:
-* React
-* React Router
-* Flux
-* Node
-* Webpack
-* Babel / ES6
-* Eslint
-* SASS
+## Before you begin
 
-
-## Development Installation
-
-Navigate to the project's directory
-
-Run these commands
+1. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
+2. Create a folder within that called session_1. This will be used to store all of your files for this session
 
 ```
 $ npm install
