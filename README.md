@@ -13,12 +13,15 @@ This will be a great place where you'll be able to see a summary of what we've t
 
 ## Before You Begin
 
-1. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
-2. Create a folder within that called session_1. This will be used to store all of your files for this session
+1. [Create a GitHub Account](https://github.com/join) and sign up for a [GitHub Student Developer Pack](https://education.github.com/pack)
+2. [Install Google Chrome](www.google.com/chrome/)
+3. Install [Sublime Text](https://www.sublimetext.com/download) or [Atom](https://atom.io/)
+4. Install [GitHub Desktop Client](https://desktop.github.com/)
+5. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
 
 Now we're ready to start making a website!
 
 ## Instructions
 
-1. Above you should see folders matching up to the weeks
+1. At the top of the page I have created a single folder for each session
 2. Click into the relevant folder
