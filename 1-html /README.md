@@ -34,3 +34,9 @@ These elements are known as tags. Tags are enclosed by angle brackets (&lt;&gt;)
 ```
 <h1>Hello World!</h1>
 ```
+
+Some tags close by defalt. An example of this is the &lt;img&gt; tag
+
+```
+<img src="imageOne.jpg" alt="Image One">
+```
