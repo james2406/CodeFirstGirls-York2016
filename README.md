@@ -1,6 +1,6 @@
 # Welcome to Code First: Girls (York 2016)
 
-We are going to teach you the basics of how webpages work and also introduce you to programming for the web in 2016.
+We are going to teach you the basics of how web pages work and also introduce you to programming for the web in 2016.
 Skills you'll practice include:
 * [HTML](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/1-html%20)
 * [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css)
@@ -9,7 +9,7 @@ Skills you'll practice include:
 * JavaScript
 * jQuery
 
-This will be a great place where you'll be able to see a summary of what we've taught you and tasks set in the lessons. If there are any probelms feel free to either message me or Mike!
+This will be a great place where you'll be able to see a summary of what we've taught you and tasks set in the lessons. If there are any problems feel free to either message me or Mike!
 
 ## Before You Begin
 
@@ -25,3 +25,6 @@ Now we're ready to start making a website!
 
 1. At the top of the page I have created a single folder for each session
 2. Click into the relevant folder
+
+
+

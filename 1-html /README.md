@@ -20,21 +20,21 @@ These elements are known as tags. Tags are enclosed by angle brackets (&lt;&gt;)
 <h1>Hello World!</h1>
 ```
 
-Some tags close by defalt. An example of this is the &lt;img&gt; tag
+Some tags close by default. An example of this is the &lt;img&gt; tag
 
 ```
 <img src="imageOne.jpg" alt="Image One">
 ```
 
-Finally, we can give our tags attributes, that can server various different purposes. In the case below, our attribute is giving our tag an id
+Finally, we can give our tags attributes, that can serve various different purposes. In the case below, our attribute is giving our tag an id
 
 ```
 <div id="main"></div>
 ```
 
-## Lesson Two - formmating
+## Lesson Two - formatting
 
-Formatting is generally up to ther programmer when it comes to html however, the common practice is to nest tags that are present within other tags. So instead of this
+Formatting is generally up to the programmer when it comes to html however, the common practice is to nest tags that are present within other tags. So instead of this
 
 ```
 <div id="main"><h1>Title</h1><h2>subtitle</h2></div>
@@ -90,7 +90,9 @@ And each element/tag does the following:
 
 ## Homework
 
-1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/).
-2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM).
+1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/)
+2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM)
 3. (Optional) Do the projects from the [Codecademy Web Track](https://www.codecademy.com/learn/web) Sections 4, 5 & 6
-4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html.
+4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html
+
+
