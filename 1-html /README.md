@@ -90,7 +90,7 @@ And each element/tag does the following:
 
 ## Homework
 
-1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/).
-2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM).
+1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/)
+2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM)
 3. (Optional) Do the projects from the [Codecademy Web Track](https://www.codecademy.com/learn/web) Sections 4, 5 & 6
-4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html.
+4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html
