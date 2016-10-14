@@ -87,3 +87,10 @@ And each element/tag does the following:
 6. Open the file example.html in Chrome and look around with the developer tools
 7. Open the file notes.html in your text editor.
 8. Change notes.html into valid html so that it looks like notes_solution.jpg
+
+## Homework
+
+1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/).
+2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM).
+3. (Optional) Do the projects from the [Codecademy Web Track](https://www.codecademy.com/learn/web) Sections 4, 5 & 6
+4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html.
