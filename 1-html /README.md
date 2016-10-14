@@ -2,10 +2,10 @@
 
 ## Task One
 
-1. Within your coding_course folder create a new folder called session_1
-1. Open the session_1 folder created in your text editor of choice (sublimetext, atom...)
+1. Within your coding_course folder create a new folder called first_site
+1. Open the first_site folder created in your text editor of choice (sublimetext, atom...)
 2. Write "Hello"
-3. Save this file as index.html in the session_1 folder
+3. Save this file as index.html in the first_site folder
 4. Open index.html in your browser of choice (chrome, firefox...)
 
 We use index.html as our homepage as we may have other files in our folder, such as about.html and contact.html. When a user loads our site, they are automatically directed to our index file
@@ -82,8 +82,8 @@ And each element/tag does the following:
 
 1. [Download this link](https://github.com/code61/learning_html/archive/master.zip)
 3. Extract the zip file and delete the zip
-4. Move those files to your session_1 folder
-5. Open the the session_1 folder in your text editor
+4. Move those files to your first_site folder
+5. Open the the first_site folder in your text editor
 6. Open the file example.html in Chrome and look around with the developer tools
 7. Open the file notes.html in your text editor.
 8. Change notes.html into valid html so that it looks like notes_solution.jpg
@@ -93,6 +93,6 @@ And each element/tag does the following:
 1. Complete the whole of Project 2 on the [General Assembly Dash site](https://dash.generalassemb.ly/)
 2. What is CSS? Get ready for the next class by watching [this fun video](https://www.youtube.com/watch?v=s7ONvIgOWdM)
 3. (Optional) Do the projects from the [Codecademy Web Track](https://www.codecademy.com/learn/web) Sections 4, 5 & 6
-4. Use what you've learnt from the HTML exercise and the Dash projects to improve your session_1/index.html
+4. Use what you've learnt from the HTML exercise and the Dash projects to improve your first_site/index.html
 
 
