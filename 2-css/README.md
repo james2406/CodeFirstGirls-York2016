@@ -109,8 +109,6 @@ h3 {
 2. Make the h1 of exercise1.html turn red
 3. Make the exercise1.html look like exercise1_solution.png
 
----
-
 ## Lesson Five - using id & class selectors
 
 HTML tags can have attributes which provide additional information about the element
