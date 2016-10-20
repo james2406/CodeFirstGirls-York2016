@@ -87,5 +87,26 @@ h1 {
 
 ```
 
-Make this changes to your exercise1.css file, then open/refresh the page in your browser
-Open the developer tools and hover over the h1 to see the rule set just created
+We can target various other selectors as well as altering an array properties with different values
+
+```
+p {
+  font-family: 'Arial';
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  background-color: green;
+  font-size: 2px;
+}
+
+```
+
+## Task Two
+
+1. Open your exercise1.css file
+2. Make the h1 of exercise1.html turn red
+3. Make the exercise1.html look like exercise1_solution.png
