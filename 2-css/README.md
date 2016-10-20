@@ -105,7 +105,7 @@ h3 {
 
 ```
 
-## Task Two
+## Task Three
 
 1. Open your exercise1.css file
 2. Make the h1 of exercise1.html turn red
