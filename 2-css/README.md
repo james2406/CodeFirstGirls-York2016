@@ -164,3 +164,19 @@ So, we can use divs to seperate our website into sections/components, and spans 
   <h1>Welcome to Code First: <span class="pink_text">Girls</span></h1>
 </div>
 ```
+
+## Lesson Seven - the universal selector
+
+The universal selector matches any element within the context in which it’s placed in a selector. The * character is the universal selector
+
+It is a great way to set your font for the entire site, and reset any browser styling
+
+```
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+```
