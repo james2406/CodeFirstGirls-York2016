@@ -65,7 +65,7 @@ The answer can be found by using three different styles:
 2. Root-relative links - contain the path to the resource relative to the site’s root, this links begin with a " / " e.g href="/stylesheets/main.css"
 3. Document-relative links - contain the path to the resource relative to the file where the link is written. In the case that we want to travel from main.css to the image we don't start with " / " but " ../ " (meaning travelling up the file tree) e.g url("../images/background.png")
 
-So, "./" means in the folder that I'm in and "../" means in the folder above the one that I'm in
+So, " ./ " means in the folder that I'm in and " ../ " means in the folder above the one that I'm in
 
 ## Task Two
 
