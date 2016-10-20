@@ -150,3 +150,17 @@ li.list_item {
   list-style-type: none;
 }
 ```
+
+## Lesson Six - using &lt;div&gt; & &lt;span&gt;
+
+&lt;div&gt; stands for division and is used to break the page up into different parts. It is known as a ‘block-level’ element, which means that it will start a new line before and after it
+
+&lt;span&gt; can be used to apply classes and ids to certain bits of text. It known as an ‘inline’ element, which won’t start a new paragraph before or after
+
+So, we can use divs to seperate our website into sections/components, and spans to target elements inline. For example
+
+```
+<div id="header">
+  <h1>Welcome to Code First: <span class="pink_text">Girls</span></h1>
+</div>
+```
