@@ -127,3 +127,28 @@ However, there are attributes that can be added to any tag, including id's and c
   <li class="list_item">Two</li>
 </ul>
 ```
+
+The difference between an id and a class is:
+id - can only target one elment on a page
+class - can target multiple elments on a page
+
+To target an id we use a " # ", and to target a class we use a " . "
+
+
+```
+h1 {
+  font-family: 'Arial';
+}
+
+h1#header_one {
+  font-weight: 600;
+}
+
+ul#list {
+  background-color: yellow;
+}
+
+li.list_item {
+  list-style-type: none;
+}
+```
