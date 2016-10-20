@@ -2,7 +2,7 @@
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document. It was created by the World Wide Web Consortium (W3C) to solve the problem of formatting and styling a document
 
-A great example of the power of css is CSS Zen Garden. They provide a [single html file](http://www.csszengarden.com/1/), and encorage people to change the design just with css. The featured designs can be found [here](http://www.csszengarden.com/)
+A great example of the power of css is CSS Zen Garden. They provide a [single html file](http://www.csszengarden.com/1/), and encourage people to change the design just with css. The featured designs can be found [here](http://www.csszengarden.com/)
 
 ## Task One
 
@@ -18,12 +18,12 @@ There are 3 ways of adding your css to your html file:
 2. Put the css in a &lt;style&gt; ... &lt;/style&gt; section in the &lt;head&gt;
 3. Link to a separate .css file in the &lt;head&gt;
 
-The first option means no seperation of html and css, and each element will have to be styled individualy
-The second option is better, but it is recommended that html and css are kept completely seperate. So, not even on the same page
+The first option means no separation of html and css, and each element will have to be styled individually
+The second option is better, but it is recommended that html and css are kept completely separate. So, not even on the same page
 
 ## Lesson Two - link to a separate css file
 
-The third option is the best, as we will have a seperate file just for css. If we ever have more than one page, we can just add the link to that new page
+The third option is the best, as we will have a separate file just for css. If we ever have more than one page, we can just add the link to that new page
 
 ```
 <!DOCTYPE html>
@@ -85,7 +85,7 @@ h1 {
 }
 ```
 
-We can target various other selectors as well as altering an array properties with different values
+We can target various other selectors as well as alter an array of properties with different values
 
 ```
 p {
@@ -126,8 +126,8 @@ However, there are attributes that can be added to any tag, including id's and c
 ```
 
 The difference between an id and a class is:
-id - can only target one elment on a page
-class - can target multiple elments on a page
+id - can only target one element on a page
+class - can target multiple elements on a page
 
 To target an id we use a " # ", and to target a class we use a " . "
 
@@ -154,9 +154,9 @@ li.list_item {
 
 &lt;div&gt; stands for division and is used to break the page up into different parts. It is known as a ‘block-level’ element, which means that it will start a new line before and after it
 
-&lt;span&gt; can be used to apply classes and ids to certain bits of text. It known as an ‘inline’ element, which won’t start a new paragraph before or after
+&lt;span&gt; can be used to apply classes and ids to certain bits of text. It is known as an ‘inline’ element, which won’t start a new paragraph before or after
 
-So, we can use divs to seperate our website into sections/components, and spans to target elements inline. For example
+So, we can use divs to separate our website into sections/components, and spans to target elements inline. For example
 
 ```
 <div id="header">
@@ -168,7 +168,7 @@ So, we can use divs to seperate our website into sections/components, and spans 
 
 The universal selector matches any element within the context in which it’s placed in a selector. The * character is the universal selector
 
-It is a great way to set your font for the entire site, and reset any browser styling
+It is a great way to set your font for the entire site and reset any browser styling
 
 ```
 * {
