@@ -1,5 +1,13 @@
 # Intro to CSS
 
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document. It was created by the World Wide Web Consortium (W3C) to solve the problem of formatting and styling a document
+
+A great example of the power of css is CSS Zen Garden. They provide a [single html file](http://www.csszengarden.com/1/), and encorage people to change the design just with css. The featured designs can be found [here](http://www.csszengarden.com/)
+
+## Lesson One - cascading style sheets
+
+Cascading 
+
 ## Task One
 
 1. Within your coding_course folder create a new folder called first_site
