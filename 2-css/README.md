@@ -110,3 +110,7 @@ h3 {
 1. Open your exercise1.css file
 2. Make the h1 of exercise1.html turn red
 3. Make the exercise1.html look like exercise1_solution.png
+
+---
+
+hey
