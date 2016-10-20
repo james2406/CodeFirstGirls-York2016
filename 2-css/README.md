@@ -6,7 +6,8 @@ A great example of the power of css is CSS Zen Garden. They provide a [single ht
 
 ## Lesson One - linking css to the DOM
 
-There are 3 ways of adding your css to your html file
+There are 3 ways of adding your css to your html file:
+
 1. Put the css inline in the html
 2. Put the css in a &lt;style&gt;..&lt;/style&gt; section in the &lt;head&gt;
 3. Link to a separate .css file in the &lt;head&gt;
