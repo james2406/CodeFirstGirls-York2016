@@ -4,6 +4,13 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 
 A great example of the power of css is CSS Zen Garden. They provide a [single html file](http://www.csszengarden.com/1/), and encorage people to change the design just with css. The featured designs can be found [here](http://www.csszengarden.com/)
 
+## Task One
+
+1. Within your coding_course folder create a new folder called session_2
+2. [Download this link](https://github.com/CodeFirstGirls/html2/archive/master.zip)
+3. Extract the zip file and delete the zip
+4. Move those files to your session_2 folder
+
 ## Lesson One - linking css to the DOM
 
 There are 3 ways of adding your css to your html file:
@@ -60,6 +67,22 @@ The answer can be found by using three different styles:
 
 So, "./" means in the folder that I'm in and "../" means in the folder above the one that I'm in
 
-## Task One
+## Task Two
 
-1. 
+1. Open the session_2 folder created in your text editor of choice (sublimetext, atom...)
+2. Make a separate CSS file, called main.css
+3. Link your main.css file to your exercise1.html file within the &lt;head&gt; tag
+
+## Lesson Four - writing CSS & basic definitions
+
+This is called a rule set a single section of CSS including a:
+* selector (h1)
+* curly braces ({})
+* declaration of properties (color) and values (red)
+
+```
+h1 {
+  color: red;
+}
+
+```
