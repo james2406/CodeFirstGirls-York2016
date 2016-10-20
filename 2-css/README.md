@@ -70,8 +70,8 @@ So, "./" means in the folder that I'm in and "../" means in the folder above the
 ## Task Two
 
 1. Open the session_2 folder created in your text editor of choice (sublimetext, atom...)
-2. Make a separate CSS file, called main.css
-3. Link your main.css file to your exercise1.html file within the &lt;head&gt; tag
+2. Make a separate CSS file, called exercise1.css
+3. Link your exercise1.css file to your exercise1.html file within the &lt;head&gt; tag
 
 ## Lesson Four - writing CSS & basic definitions
 
@@ -86,3 +86,6 @@ h1 {
 }
 
 ```
+
+Make this changes to your exercise1.css file, then open/refresh the page in your browser
+Open the developer tools and hover over the h1 to see the rule set just created
