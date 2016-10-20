@@ -6,10 +6,9 @@ A great example of the power of css is CSS Zen Garden. They provide a [single ht
 
 ## Task One
 
-1. Within your coding_course folder create a new folder called session_2
-2. [Download this link](https://github.com/CodeFirstGirls/html2/archive/master.zip)
-3. Extract the zip file and delete the zip
-4. Move those files to your session_2 folder
+1. [Download this link](https://github.com/CodeFirstGirls/html2/archive/master.zip)
+2. Extract the zip file into your coding_course folder, and delete the zip
+3. Rename the html2-master to session_2
 
 ## Lesson One - linking css to the DOM
 
@@ -180,3 +179,9 @@ It is a great way to set your font for the entire site, and reset any browser st
   font-family: sans-serif;
 }
 ```
+
+## Task Four
+
+1. Open the file html2/exercise2.html in Sublime Text and Chrome
+2. Separate the CSS in the &lt;head&gt; tags into a linked CSS file
+3. Continue until your page looks like html2/exercise2_solution.png
