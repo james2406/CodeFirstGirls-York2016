@@ -84,7 +84,6 @@ This is called a rule set a single section of CSS including a:
 h1 {
   color: red;
 }
-
 ```
 
 We can target various other selectors as well as altering an array properties with different values
@@ -102,7 +101,6 @@ h3 {
   background-color: green;
   font-size: 2px;
 }
-
 ```
 
 ## Task Three
@@ -113,4 +111,19 @@ h3 {
 
 ---
 
-hey
+## Lesson Five - using id & class selectors
+
+HTML tags can have attributes which provide additional information about the element
+e.g with a link you would use a href="" attribute
+e.g with a img you would use a src="" attribute
+
+However, there are attributes that can be added to any tag, including id's and classes
+
+```
+<h1 id="header_one">Header</h1>
+
+<ul id="list">
+  <li class="list_item">One</li>
+  <li class="list_item">Two</li>
+</ul>
+```
