@@ -24,27 +24,11 @@ Version control, is the key to collaborative software development. You can work 
 
 To be concise, this is why we need it:
 
-* Backup and Restore
-  
-  Files are saved as they are edited, and you can jump to any moment in time. Need that file as it was on Feb 23, 2007? No problem.
-
-* Synchronization
-  
-  Lets people share files and stay up-to-date with the latest version.
-
-● Short-term undo. Monkeying with a file and messed it up? (That’s
-
-just like you, isn’t it?). Throw away your changes and go back to the
-
-“last known good” version in the database.
-
-● Long-term undo. Sometimes we mess up bad. Suppose you made
-
-a change a year ago, and it had a bug. Jump back to the old version,
-
-and see what change was made that day.
-
-● Track Changes. As files are updated, you can leave messages
+* Backup and Restore - Files are saved as they are edited, and you can jump to any moment in time
+* Synchronization - Lets people share files and stay up-to-date with the latest version
+* Short-term undo - If you're changing a file and messed something up, throw away your changes and go back to the “last known good” version in the database
+* Long-term undo - If you've made a big error, you can go back to a change a year ago
+* Track Changes. As files are updated, you can leave messages
 
 explaining why the change happened (stored in the VCS, not the
 
