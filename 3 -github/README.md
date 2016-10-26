@@ -49,3 +49,5 @@ Main elements of version control:
 * Commits - On GitHub, saved changes are called commits, a bunch of them together read like the history of your project. Each commit has an associated commit message, which is a description explaining why a particular change was made
 
 * Issues - An Issue is a note on a repository about something that needs attention (it could be a bug, a feature request, a question...)
+
+* Pull Requests - When you make a pull request, you’re proposing your changes and requesting that someone pull in your contribution (aka merge them into their branch)
