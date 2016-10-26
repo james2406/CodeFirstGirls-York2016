@@ -81,3 +81,7 @@ Now you can click sync to recieve the changes. However, what happens if you make
 2. Commit and push, one after the other
 3. Open the files in a text editor (e.g. Sublime)
 3. Choose the correct lines to keep
+
+## Lesson Two - putting your site online
+
+Text
