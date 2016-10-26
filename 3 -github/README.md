@@ -51,3 +51,7 @@ Main elements of version control:
 * Issues - An Issue is a note on a repository about something that needs attention (it could be a bug, a feature request, a question...)
 
 * Pull Requests - When you make a pull request, you’re proposing your changes and requesting that someone pull in your contribution (aka merge them into their branch)
+
+## Task One - using Git
+
+Text
