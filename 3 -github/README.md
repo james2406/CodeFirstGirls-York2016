@@ -19,3 +19,12 @@ What if there were a way to automate the merging of your material, where you cou
 3. You'd have to save all the different versions across files
 
 What if you could see exactly what changes you’ve made and where over time?
+
+### Version Control
+
+Version control, is the key to collaborative software development. You can:
+
+* work in teams on the same project
+* easily manage conflicts in code on the same files
+* work on different versions all at the same time
+* decide what you want to keep and what you want to bin at the end
