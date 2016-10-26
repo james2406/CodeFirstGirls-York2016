@@ -39,3 +39,11 @@ This is why we need version control:
 * Sandboxing - You can make temporary changes in an isolated area, to test code before commiting your changes
 
 * Branching and merging - You can branch a copy of your code into a separate area and modify it in isolation. Later, you can merge your work back into the common area
+
+Main elements of version control:
+
+* Repositories
+
+  A repositories is (generaly) a single project. They can contain folders and files, including images / anything your project needs. They should include a README and a license
+
+* Branches
