@@ -25,9 +25,11 @@ Version control, is the key to collaborative software development. You can work 
 To be concise, this is why we need it:
 
 * Backup and Restore
+  
   Files are saved as they are edited, and you can jump to any moment in time. Need that file as it was on Feb 23, 2007? No problem.
 
 * Synchronization
+  
   Lets people share files and stay up-to-date with the latest version.
 
 ● Short-term undo. Monkeying with a file and messed it up? (That’s
