@@ -42,8 +42,10 @@ This is why we need version control:
 
 Main elements of version control:
 
-* Repositories
+* Repositories - A repositories is (generaly) a single project. They can contain folders and files, including images / anything your project needs. They should include a README and a license
 
-  A repositories is (generaly) a single project. They can contain folders and files, including images / anything your project needs. They should include a README and a license
+* Branches - Branching is the way to work on different parts of a repository at one time. When you create a repository, by default it has one branch called master
 
-* Branches
+* Commits - On GitHub, saved changes are called commits, a bunch of them together read like the history of your project. Each commit has an associated commit message, which is a description explaining why a particular change was made
+
+* Issues - An Issue is a note on a repository about something that needs attention (it could be a bug, a feature request, a question...)
