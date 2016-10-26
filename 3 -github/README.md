@@ -82,10 +82,10 @@ Now you can click sync to recieve the changes. However, what happens if you make
 3. Open the files in a text editor (e.g. Sublime)
 3. Choose the correct lines to keep
 
-## Lesson Two - putting your site online
+## Task Two - putting your site online
 
 We’re going to use [GitHub Pages](https://pages.github.com/) to host our site - it will provide the server where the files for our site is stored
 
-## Lesson Three - the command line
+## Lesson Two - the command line
 
 Text
