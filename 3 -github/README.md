@@ -22,34 +22,20 @@ What if you could see exactly what changes you’ve made and where over time?
 
 Version control, is the key to collaborative software development. You can work in teams on the same project, easily manage conflicts in code on the same files, work on different versions all at the same time and then decide what you want to keep and what you want to bin at the end
 
-To be concise, this is why we need it:
+This is why we need version control:
 
 * Backup and Restore - Files are saved as they are edited, and you can jump to any moment in time
+
 * Synchronization - Lets people share files and stay up-to-date with the latest version
+
 * Short-term undo - If you're changing a file and messed something up, throw away your changes and go back to the “last known good” version in the database
+
 * Long-term undo - If you've made a big error, you can go back to a change a year ago
-* Track Changes. As files are updated, you can leave messages
 
-explaining why the change happened (stored in the VCS, not the
+* Track Changes - As files are updated, you can leave messages explaining why the change happened. Making it easy to see how a file is evolving over time, and why
 
-file). This makes it easy to see how a file is evolving over time, and
+* Track Ownership - A VCS tags every change with the name of the person who made it. Helpful for giving credit / blaming
 
-why.
+* Sandboxing - You can make temporary changes in an isolated area, to test code before commiting your changes
 
-● Track Ownership. A VCS tags every change with the name of the
-
-person who made it. Helpful for blamestorming giving credit.
-
-● Sandboxing, or insurance against yourself. Making a big change?
-
-You can make temporary changes in an isolated area, test and work
-
-out the kinks before “checking in” your changes.
-
-● Branching and merging. A larger sandbox. You can branch a
-
-copy of your code into a separate area and modify it in isolation
-
-(tracking changes separately). Later, you can merge your work
-
-back into the common area.
+* Branching and merging - You can branch a copy of your code into a separate area and modify it in isolation. Later, you can merge your work back into the common area
