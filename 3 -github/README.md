@@ -4,7 +4,7 @@
 
 ### Example 1
 
-1. Let’s say you're working with another person
+1. Let’s say you're working with another person on a project
 2. Together you both have to create a powerpoint presentation for a semminar
 3. Before you part ways, you'll create a structure for presentation
 4. You work on this, Your partner will work on that...
@@ -14,7 +14,8 @@ What if there were a way to automate the merging of your material, where you cou
 
 ### Example 2
 
-Another scenario could be you working in your CV
-Over the years, you would have made an array of edits to your CV
-You'd have to save all the different versions across files
+1. Another scenario could be you working in your CV
+2. Over the years, you would have made an array of edits to your CV
+3. You'd have to save all the different versions across files
+
 What if you could see exactly what changes you’ve made and where over time?
