@@ -85,3 +85,7 @@ Now you can click sync to recieve the changes. However, what happens if you make
 ## Lesson Two - putting your site online
 
 We’re going to use [GitHub Pages](https://pages.github.com/) to host our site - it will provide the server where the files for our site is stored
+
+## Lesson Three - the command line
+
+Text
