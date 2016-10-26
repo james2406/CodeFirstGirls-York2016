@@ -12,7 +12,7 @@ What if there were a way to automate the merging of your material, where you cou
 
 ### Example 2
 
-1. Another scenario could be you working in your CV
+1. Another scenario could be you working on your CV
 2. Over the years, you would have made an array of edits to your CV
 3. You'd have to save all the different versions across files
 
@@ -20,4 +20,4 @@ What if you could see exactly what changes you’ve made and where over time?
 
 ## Lesson One - version control
 
-Version control, is the key to collaborative software development. You can, work in teams on the same project, easily manage conflicts in code on the same files, work on different versions all at the same time and then decide what you want to keep and what you want to bin at the end
+Version control, is the key to collaborative software development. You can work in teams on the same project, easily manage conflicts in code on the same files, work on different versions all at the same time and then decide what you want to keep and what you want to bin at the end
