@@ -88,4 +88,18 @@ We’re going to use [GitHub Pages](https://pages.github.com/) to host our site 
 
 ## Lesson Two - the command line
 
-Text
+The command-line interface is a tool which you can type text commands to perform specific tasks
+
+Many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files. Potentially, saving you loads of time in the process
+
+The computer will take these commands at face value, and will attempt to carry out any command that it understands
+
+Unfortunately, the computer does not speak in any language spoken by humans. The people who created the operating systems you work on have thus created a standard set of commands that are built into the computer without having to be processed or compiled
+
+The application or user interface that accepts your typed responses and displays the data on the screen is called a shell
+
+There are many different varieties that you can choose from, but the most common these days is the Bash shell, which is the default on Linux and Mac systems in the Terminal application
+
+Windows systems only include the anemic Command Prompt application, which has nowhere near the power of Bash
+
+So, if you're using Windows (for the purposes of this session) we're going to suggest you use the open source Cygwin tool as your Windows command line, since it's quite a bit more powerful
