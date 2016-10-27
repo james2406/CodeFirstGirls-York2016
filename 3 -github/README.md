@@ -116,13 +116,13 @@ What you need to know:
 
 The commands:
 
-* ls
+* ls - list
 
-* pwd
+* pwd - Print working directory
 
-* cd
+* cd - Change directory
 
-* man
+* man - Get manual for command (e.g. man ls)
 
 * mkdir - Make a new directory
 
