@@ -135,3 +135,15 @@ The commands:
 * rm - Remove a file or directory (learn about the -r option)
 
 * less - Show the contents of a file in a scrolling buffer
+
+## Lesson Three - git
+
+Git is a very powerful and popular version control system, and the only place you can run all Git commands is from the command line
+
+Command-line tools are also available across operating systems, whilst GUIs are subjective for different companies or teams. So it’s best to understand it for the future
+
+## Task Three - try Git
+
+Use git [here](https://try.github.io/levels/1), to try it yourself in a virtual command line
+
+Then use it [here](http://rogerdudler.github.io/git-guide/), to try it yourself in your own command line, the GitHub guide for this is
