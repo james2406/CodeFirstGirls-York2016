@@ -103,3 +103,35 @@ There are many different varieties that you can choose from, but the most common
 Windows systems only include the anemic Command Prompt application, which has nowhere near the power of Bash
 
 So, if you're using Windows (for the purposes of this session) we're going to suggest you use the open source Cygwin tool as your Windows command line, since it's quite a bit more powerful
+
+What you need to know:
+
+* Console - This is the system as a whole. This is both the command line as well as the output from previous commands
+
+* Command Line - This is the actual line in a console where you type your command
+
+* Prompt - This is the beginning of the command line. It usually provides some contextual information like who you are, where you are and other useful info. It typically ends in a $ . After the prompt is where you will be typing commands
+
+* Terminal: This is the actual interface to the console. The program we use to interact with the console is actually a “terminal emulator”, providing us the experience of typing into an old school terminal from the convenience of our modern graphical operating system
+
+The commands:
+
+* ls
+
+* pwd
+
+* cd
+
+* man
+
+* mkdir - Make a new directory
+
+* touch - Make a new empty file
+
+* cp - Copy a file
+
+* mv - Move a file
+
+* rm - Remove a file or directory (learn about the -r option)
+
+* less - Show the contents of a file in a scrolling buffer
