@@ -17,6 +17,8 @@ Link to the Twitter Bootstrap stylesheet in the head of your html page
 ```
 <head>
   <title>Page title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/main.css" rel="stylesheet">
 </head>
@@ -46,3 +48,16 @@ Responsive design means designing your sites so that they look good on all scree
 It is common pratice to design your website with a ‘mobile first’ approach. Bootstrap encourages you to do this, meaning your site will look good at all sizes from the very beginning
 
 Bootstrap does this by including a responsive, mobile first fluid grid system that lets you split the screen up into 12 columns and lets you customise the size of your HTML element as a fraction of 12. The documentation goes through this [here](http://getbootstrap.com/css/#grid-example-basic)
+
+## Task Two
+
+1. [Download this link](https://github.com/code61/bootstrap_exercise/archive/master.zip)
+2. Extract the zip file into your coding_course folder, and delete the zip
+
+The tasks from now will be to create the website for ("Sam's Sarnies")[http://code61.github.io/bootstrap_exercise/] using Twitter Bootstrap
+
+1. Goto the [Bootstrap website](http://getbootstrap.com/) and click the Download Bootstrap button
+2. Unzip and copy the 'dist' folder into the bootstrap_exercise folder
+3. Open bootstrap_exercise in Sublime Text, and bootstrap_exercise/index.html in Chrome
+4. Add a link to the twitter bootstrap stylesheet into index.html (shown in Lesson One ^)
+5. Refresh the page in Chrome. Notice the changes
