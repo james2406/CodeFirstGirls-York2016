@@ -14,16 +14,16 @@ To make use of Twitter Bootstrap, you need to do two things:
 
 1. Link to the Twitter Bootstrap stylesheet in the head of your html page
 
-```
-<head>
-  <title>Page title</title>
-  <link href="css/bootstrap.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-</head>
-```
+  ```
+  <head>
+    <title>Page title</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+  </head>
+  ```
 
 2. Attach the relevant Twitter Bootstrap class to your html element
 
-```
-<button class='btn btn-lrg'>Twitter</button>
-```
+  ```
+  <button class='btn btn-lrg'>Twitter</button>
+  ```
