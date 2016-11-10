@@ -86,3 +86,34 @@ Columns - Predefined grid classes like '.row' and '.col-md-' are available for q
 The number after the 'col-sm' determines how many of the 12 grid columns that page column takes up
 
 The '-sm' bit determines the width at which the columns will collapse on top of each other
+
+## Task Three
+
+1. Add a div class='container' around the page content
+2. Create a row at the top of the page, with two columns
+3. Set the left column to be twice as wide as the right column
+4. Put the h1 in the left column and the img(src='images/sandwich.png') on the right
+5. Create a row with three equal columns to hold each of 'The Buzz' divs
+
+## Task Four
+
+Now that we have set up our layout, we can being experimenting with some other features has to offer!
+
+Typography:
+
+1. Open and skim the [typography section](http://getbootstrap.com/css/#type) of the bootstrap docs
+2. Change the quotes in 'The Buzz' to use blockquotes
+3. Change the paragraphs in 'Our mission' to be [lead body copy](http://getbootstrap.com/css/#type-body-copy)
+
+Buttons:
+
+1. Open and skim the [buttons section](http://getbootstrap.com/css/#buttons) of the bootstrap docs
+2. Change the 'Send' button to a success button
+3. Make the social links at the bottom into large buttons
+
+Images:
+
+1. Open and skim the [images section](http://getbootstrap.com/css/#images) of the bootstrap docs
+2. Make the images in 'The Buzz' round, by adding the img-circle class
+3. Center the image by adding the alignment class text-center
+4. Change the main sandwich image into an img-responsive, as described in the [responsive images section](http://getbootstrap.com/css/#overview-responsive-images)
