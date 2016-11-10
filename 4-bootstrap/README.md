@@ -1,30 +1,29 @@
-# Welcome to Code First: Girls (York 2016)
+# Bootstrap
 
-We are going to teach you the basics of how web pages work and also introduce you to programming for the web in 2016.
-Skills you'll practice include:
-* [HTML](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/1-html%20)
-* [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css)
-* Github
-* Bootstrap
-* JavaScript
-* jQuery
+You’ve seen quite a bit of CSS now; it all seems quite straightforward. Unfortunately, browsers will render CSS with subtle differences. Making your site look good (or even presentable) across browsers takes time, effort and experience
 
-This will be a great place where you'll be able to see a summary of what we've taught you and tasks set in the lessons. If there are any problems feel free to either message me or Mike!
+Also, in the last 5 years the mobile web has exploded. So, you need to ask yourslef: how will my website look when viewed on a mobile?
 
-## Before You Begin
+## Lesson One - twitter bootstrap
 
-1. [Create a GitHub Account](https://github.com/join) and sign up for a [GitHub Student Developer Pack](https://education.github.com/pack)
-2. [Install Google Chrome](www.google.com/chrome/)
-3. Install [Sublime Text](https://www.sublimetext.com/download) or [Atom](https://atom.io/)
-4. Install [GitHub Desktop Client](https://desktop.github.com/)
-5. Create a folder called coding_course. This will be used to store all of your files for this entire course, so keep it in an easy to reach / memorable place
+Twitter Bootstrap  is a 'Web Application Framework'. It includes a set of CSS (and JavaScript) files, released by the makers of Twitter, and maintained by some of its developers.
 
-Now we're ready to start making a website!
+Bootstrap provides a set of ready-made CSS files that provide pre-built functions for common web development requirements, and pre-built solutions to common presentation requirements in a cross-browser / responsive way.
 
-## Instructions
+To make use of Twitter Bootstrap, you need to do two things:
 
-1. At the top of the page I have created a single folder for each session
-2. Click into the relevant folder
+1. Link to the Twitter Bootstrap stylesheet in the head of your html page
 
+```
+<head>
+  <title>Page title</title>
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+</head>
+```
 
+2. Attach the relevant Twitter Bootstrap class to your html element
 
+```
+<button class='btn btn-lrg'>Twitter</button>
+```
