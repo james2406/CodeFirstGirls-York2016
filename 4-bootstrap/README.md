@@ -144,28 +144,29 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
 ### Buttons
 
 1. Add the folowing code to your main.css file
+
+  ```
+  #social-buttons button {
+    color: white;
+  }
+
+  .btn-twitter {
+    background-color: #00acee;
+    border-color: #009ad5;
+  }
+
+  .btn-facebook {
+    background-color: #4868ac;
+    border-color: #314776;
+  }
+
+  .btn-pinterest {
+    background-color: #b62f26;
+    border-color: #b62f26;
+  }
+  ```
+
 2. View the changes in your browser
-
-```
-#social-buttons button {
-  color: white;
-}
-
-.btn-twitter {
-  background-color: #00acee;
-  border-color: #009ad5;
-}
-
-.btn-facebook {
-  background-color: #4868ac;
-  border-color: #314776;
-}
-
-.btn-pinterest {
-  background-color: #b62f26;
-  border-color: #b62f26;
-}
-```
 
 ### Background
 
