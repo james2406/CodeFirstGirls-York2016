@@ -61,3 +61,5 @@ The tasks from now will be to create the website for ("Sam's Sarnies")[http://co
 3. Open bootstrap_exercise in Sublime Text, and bootstrap_exercise/index.html in Chrome
 4. Add a link to the twitter bootstrap stylesheet into index.html (shown in Lesson One ^)
 5. Refresh the page in Chrome. Notice the changes
+
+## Lesson Three - bootstrap layout
