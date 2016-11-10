@@ -170,6 +170,7 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
 ### Background
 
 1. Change the background of the jumbotron to be the image fruit-and-veg.png by adding the css
+
   ```
   .jumbotron {
     min-height: 600px;
@@ -179,6 +180,7 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
   }
   ```
 2. Move the .container inside the .jumbotron
+
   ```
   <div class="jumbotron">
     <div class="container">
