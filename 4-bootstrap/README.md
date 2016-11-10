@@ -20,7 +20,6 @@ Link to the Twitter Bootstrap stylesheet in the head of your html page
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <link href="css/bootstrap.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
 </head>
 ```
 
@@ -117,3 +116,22 @@ Images:
 2. Make the images in 'The Buzz' round, by adding the img-circle class
 3. Center the image by adding the alignment class text-center
 4. Change the main sandwich image into an img-responsive, as described in the [responsive images section](http://getbootstrap.com/css/#overview-responsive-images)
+
+
+## Lesson Four - modifying bootstrap
+
+You don't modify Bootstrap styling within the Bootstrap document, but in your 'main.css' file
+
+When a new version of Bootstrap comes out you can upgrade by dragging the new version over the top of the old, without losing any modifications!
+
+To set this up you add your css link underneath the bootstrap.css link. It goes underneath as the browser will read your css in order of its position, allowing you to override existing Bootstrap styles
+
+```
+<head>
+  <title>Page title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+</head>
+```
