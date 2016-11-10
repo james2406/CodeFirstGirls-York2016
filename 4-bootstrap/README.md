@@ -34,6 +34,15 @@ To understand how to use Bootstrap, or any framework for that matter, it is vita
 
 In this task we are going to create a table, with a zebra pattern
 
-1. Go to the [Bootstrap documentation on tables](http://getbootstrap.com/css/#tables), and study how to set it up correctly
-2. Create a table using the appropriate class name
+1. Go to the [Bootstrap documentation on tables](http://getbootstrap.com/css/#tables), and study how to set one up correctly
+2. Create a table using the appropriate class name/s
 3. Complete the table by adding the head (&lt;thead&gt; ... &lt;/thead&gt;) and body (&lt;tbody&gt; ... &lt;/tbody&gt;) sections
+4. Preview your page, and inspect the Bootstrap styles applied using your browsers developer tools
+
+## Lesson Two - responsive design
+
+Responsive design means designing your sites so that they look good on all screen sizes
+
+It is common pratice to design your website with a ‘mobile first’ approach. Bootstrap encourages you to do this, meaning your site will look good at all sizes from the very beginning
+
+Bootstrap does this by including a responsive, mobile first fluid grid system that lets you split the screen up into 12 columns and lets you customise the size of your HTML element as a fraction of 12. The documentation goes through this [here](http://getbootstrap.com/css/#grid-example-basic)
