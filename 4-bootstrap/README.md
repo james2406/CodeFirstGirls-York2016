@@ -180,6 +180,7 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
     background-attachment: fixed;
   }
   ```
+  
 2. Move the .container inside the .jumbotron
 
   ```
@@ -189,3 +190,5 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
     </div>
   </div>
   ```
+
+3. Change the background color of the mission section to rgba(32, 35, 41, 0.9) and the font colour to #ddd
