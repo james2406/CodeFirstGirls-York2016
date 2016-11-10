@@ -27,3 +27,5 @@ Attach the relevant Twitter Bootstrap class to your html element
 ```
 <button class='btn btn-lrg'>Twitter</button>
 ```
+
+To understand how to use Bootstrap, or any framework for that matter, it is vital to read the documentation. The documentation for Bootstrap is available [here](http://getbootstrap.com/getting-started/)
