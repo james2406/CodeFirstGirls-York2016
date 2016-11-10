@@ -4,7 +4,7 @@ We are going to teach you the basics of how web pages work and also introduce yo
 Skills you'll practice include:
 * [HTML](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/1-html%20)
 * [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css)
-* Github
+* [Github](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/3%20-github)
 * Bootstrap
 * JavaScript
 * jQuery
