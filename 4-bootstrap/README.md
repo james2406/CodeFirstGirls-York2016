@@ -98,19 +98,19 @@ The '-sm' bit determines the width at which the columns will collapse on top of 
 
 Now that we have set up our layout, we can being experimenting with some other features has to offer!
 
-Typography:
+### Typography
 
 1. Open and skim the [typography section](http://getbootstrap.com/css/#type) of the bootstrap docs
 2. Change the quotes in 'The Buzz' to use blockquotes
 3. Change the paragraphs in 'Our mission' to be [lead body copy](http://getbootstrap.com/css/#type-body-copy)
 
-Buttons:
+### Buttons
 
 1. Open and skim the [buttons section](http://getbootstrap.com/css/#buttons) of the bootstrap docs
 2. Change the 'Send' button to a success button
 3. Make the social links at the bottom into large buttons
 
-Images:
+### Images
 
 1. Open and skim the [images section](http://getbootstrap.com/css/#images) of the bootstrap docs
 2. Make the images in 'The Buzz' round, by adding the img-circle class
@@ -141,7 +141,7 @@ To set this up you add your css link underneath the bootstrap.css link. It goes 
 1. Create a file called main.css
 2. Add the main.css file to the head of your document
 
-Buttons:
+### Buttons
 
 1. Add the folowing code to your main.css file
 2. View the changes in your browser
@@ -167,4 +167,4 @@ Buttons:
 }
 ```
 
-Background:
+### Background
