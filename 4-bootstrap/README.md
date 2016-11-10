@@ -63,3 +63,26 @@ The tasks from now will be to create the website for ("Sam's Sarnies")[http://co
 5. Refresh the page in Chrome. Notice the changes
 
 ## Lesson Three - bootstrap layout
+
+Bootstraps responsive, mobile first fluid grid system gives you several options on how to layout your page. We’ll just look at Containers and Columns for now:
+
+Containers - Bootstrap requires a containing element to wrap site contents and house our grid system. You may choose one of two containers to use in your projects. Note that, due to padding and more, neither container is nestable.
+
+```
+<div class="container">
+  ...
+</div>
+```
+
+Columns - Predefined grid classes like '.row' and '.col-md-' are available for quickly making grid layouts. Less mixins can also be used for more semantic layouts.
+
+```
+<div class="row">
+  <div class="col-md-8">.col-md-8</div>
+  <div class="col-md-4">.col-md-4</div>
+</div>
+```
+
+The number after the 'col-sm' determines how many of the 12 grid columns that page column takes up
+
+The '-sm' bit determines the width at which the columns will collapse on top of each other
