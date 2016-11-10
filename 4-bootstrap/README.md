@@ -29,3 +29,11 @@ Attach the relevant Twitter Bootstrap class to your html element
 ```
 
 To understand how to use Bootstrap, or any framework for that matter, it is vital to read the documentation. The documentation for Bootstrap is available [here](http://getbootstrap.com/getting-started/)
+
+## Task One
+
+In this task we are going to create a table, with a zebra pattern
+
+1. Go to the [Bootstrap documentation on tables](http://getbootstrap.com/css/#tables), and study how to set it up correctly
+2. Create a table using the appropriate class name
+3. Complete the table by adding the head (&lt;thead&gt; ... &lt;/thead&gt;) and body (&lt;tbody&gt; ... &lt;/tbody&gt;) sections
