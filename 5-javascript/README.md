@@ -236,24 +236,42 @@ So, to add Bootstrap.js, just include the CDN (or file location) under jQuery. T
 
 ## Lesson Four - using jquery with bootstrap
 
-### Drop-down menus
-
-Add dropdown menus to nearly anything with this simple plugin, including the navbar, tabs, and pills
+Dropdown menus - Add dropdown menus to nearly anything with this simple plugin, including the navbar, tabs, and pills
 
 http://getbootstrap.com/javascript/#dropdowns 
 
-### Popup boxes
-
-Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults
+Popup boxes - Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults
 
 http://getbootstrap.com/javascript/#modals 
 
-### Image slideshows/carousels
-
-A slideshow component for cycling through elements, like a carousel
+Image slideshows/carousels - A slideshow component for cycling through elements, like a carousel
 
 http://getbootstrap.com/javascript/#carousel 
 
-## Task Two - adding image carousel to site
+## Task One - adding image carousel to site
 
 We're going to be adding an image slideshows, so if you don't want it on your site today you can add it to your Sam’s Sarnies site from last week!
+
+1. Add an image carousel to the site (you can find images [here](https://drive.google.com/drive/u/0/folders/0Bwo5bTC_RuNia2EzQjFXa0Y0RDQ?usp=sharing#))
+2. Add another feature from the [Bootstrap documentation](http://getbootstrap.com/javascript/) to your site
+
+## Projects
+
+For anyone struggling for ideas with their projects CFG have a list of additional ideas for things you can include in your project using JavaScript/JQuery [here](https://docs.google.com/document/d/1u8yT5evLWzAW3O9TGAfFhd7olPRDWc1bhTmXeaNBXVY/edit#)
+
+The guidlines are:
+
+* A visually appealing design - good use of CSS, HTML elements, and Twitter Bootstrap
+  * Good formatting
+  * Code split into the appropriate files
+  * Files indented properly
+* A live website (Github page, Heroku or own domain)
+* Extras e.g. 
+  * A contact form (for example name and email)
+  * Social buttons
+  * As many different HTML elements you can manage
+  * Interactive elements (like forms) on the website don’t need to be functional, but should be present if they need to be for the visual aspect of the design
+* (optional) Good organisation
+  * Version control using GitHub
+  * Sensible commit messages
+
