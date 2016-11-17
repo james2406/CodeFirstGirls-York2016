@@ -193,7 +193,7 @@ Fianlly, we can add jQuery to use with our javascript
 ```
   <body>
   
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="http://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="main.js"></script>
   </body>
 </html>
@@ -216,3 +216,18 @@ $('.page_one').addClass('active');
 ```
 
 [CodePen demo](http://codepen.io/dianaklee/pen/epBypZ)
+
+
+## Lesson Three - using jquery with bootstrap
+
+jQ
+
+```
+  <body>
+  
+    <script src="http://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
+```
