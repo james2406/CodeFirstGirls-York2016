@@ -179,8 +179,6 @@ Second, create and link a javascript file to the document
 (this is added to the body, as it will wait for all of the html to load before it runs)
 
 ```
-...
-
   <body>
   
     <script src="main.js"></script>
@@ -193,8 +191,6 @@ Fianlly, we can add jQuery to use with our javascript
 (it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
 
 ```
-...
-
   <body>
   
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
