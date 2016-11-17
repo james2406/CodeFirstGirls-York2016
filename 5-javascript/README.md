@@ -156,3 +156,46 @@ if (age > 17) {
 # jQuery
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers
+
+## Lesson One - adding javascript and jquery to site
+
+First, create an index.html file using this template
+
+```
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Page Title</title>
+      <link rel='stylesheet' type='text/css' href='main.css'>
+    </head>
+
+  <body>
+  </body>
+</html>
+```
+
+Second, create and link a javascript file to the document
+
+(this is added to the body, as it will wait for all of the html to load before it runs)
+
+```
+...
+  <body>
+  
+    <script src="main.js"></script>
+  </body>
+</html>
+```
+
+Fianlly, we can add jQuery to use with our javascript
+
+(it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
+
+```
+...
+  <body>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
+```
