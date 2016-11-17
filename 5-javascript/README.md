@@ -209,6 +209,12 @@ This can be done using the jQuery function, which includes a:
 $('ul li').hide();
 
 $('.page_one').addClass('active');
+
+$('a.link_one').on('click', alert("Click!"));
+
+$('a.link_one').on('click', function() {
+  $(this).hide();
+});
 ```
 
 [CodePen demo](http://codepen.io/dianaklee/pen/epBypZ)
