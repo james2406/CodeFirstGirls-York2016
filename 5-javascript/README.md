@@ -18,13 +18,13 @@ To being, open up the Chrome developer tools (make sure you're on the console ta
 
 ## Lesson One - javascript variables
 
-A variabel is a way to store a value for later on
+A variable is a way to store a value for later on
 
 Similar to algebra, we can set x to equal 1
 
 To do this in javascript we would write the letters 'var'
 
-Each line is then closed with a semi collon 
+Each line is then closed with a semi colon 
 
 ```
 var x = 1;
@@ -39,7 +39,7 @@ x + 2
 // 3
 ```
 
-There are also other variable types such as Strings, so if I want to store the users name of our website I can. Strings work in the same way, however we let the computer know its a string by surrounding the variable with quote marks
+There are also other variable types such as Strings, so if I want to store the user's name of our website I can. Strings work in the same way, however, we let the computer know it's a string by surrounding the variable with quote marks
 
 ```
 var name = "James";
@@ -51,7 +51,7 @@ Every programming language lets you create blocks of code that, when called, per
 
 ### alert function
 
-There are also functions built directly into javascript, the alert function. A function is decalred by using its:
+There are also functions built directly into javascript, the alert function. A function is declared by using its:
 
 1. name - alert
 2. brackets - letting the computer know it's a function
@@ -61,7 +61,7 @@ There are also functions built directly into javascript, the alert function. A f
 alert();
 ```
 
-The alert function is one that runs with ot without parameters however, it makes sense to use them
+The alert function is one that runs without parameters however, it makes sense to use them
 
 ```
 var name = "James";
@@ -77,7 +77,7 @@ Another useful function is the prompt function. It allows us to ask the users fo
 prompt();
 ```
 
-We can then expand on that by setting prompt to a variable, and alerting that on our screen
+We can then expand on that by setting prompt to a variable and alerting that on our screen
 
 ```
 var name = prompt();
@@ -103,7 +103,7 @@ alert("Your name is " + name);
 
 // crtl + enter / shift + enter
 
-In javascript we can create code that only runs when conditions are true. This is done by writting an 'if statement'
+In javascript, we can create code that only runs when conditions are true. This is done by writing an 'if statement'
 
 1. if - statement type
 2. brackets - where our condition goes
@@ -184,7 +184,7 @@ Create and link a javascript file to the document (this is added to the body, as
 </html>
 ```
 
-Wwe ca then add jQuery to use with our javascript (it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
+We can then add jQuery to use with our javascript (it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
 
 ```
   <body>
@@ -197,7 +197,7 @@ Wwe ca then add jQuery to use with our javascript (it is put above our main.js f
 
 ## Lesson Two - using jquery
 
-jQuery makes selecting elements on the page, and manipulating them easy.
+jQuery makes selecting elements on the page and manipulating them easy.
 
 This can be done using the jQuery function, which includes a:
 
@@ -216,7 +216,7 @@ $('.page_one').addClass('active');
 
 ## Lesson Three - using jquery with bootstrap
 
-You can use all Bootstrap plugins purely through the markup API without writing a single line of JavaScript. This should be slightly familiar to you, as it works simililary to how you set up bootstap.css with your html
+You can use all Bootstrap plugins purely through the markup API without writing a single line of JavaScript. This should be slightly familiar to you, as it works similarly to how you set up bootstap.css with your html
 
 So, to add Bootstrap.js, just include the CDN (or file location) under jQuery. Then add your personal .js file underneath (optional)
 
@@ -253,9 +253,9 @@ We're going to be adding an image slideshows, so if you don't want it on your si
 
 ## Projects
 
-For anyone struggling for ideas with their projects CFG have a list of additional ideas for things you can include in your project using JavaScript/JQuery [here](https://docs.google.com/document/d/1u8yT5evLWzAW3O9TGAfFhd7olPRDWc1bhTmXeaNBXVY/edit#)
+For anyone struggling for ideas with their projects CFG has a list of additional ideas for things you can include in your project using JavaScript/JQuery [here](https://docs.google.com/document/d/1u8yT5evLWzAW3O9TGAfFhd7olPRDWc1bhTmXeaNBXVY/edit#)
 
-The guidlines are:
+The guidelines are:
 
 * A visually appealing design - good use of CSS, HTML elements, and Twitter Bootstrap
   * Good formatting
@@ -266,8 +266,7 @@ The guidlines are:
   * A contact form (for example name and email)
   * Social buttons
   * As many different HTML elements you can manage
-  * Interactive elements (like forms) on the website don’t need to be functional, but should be present if they need to be for the visual aspect of the design
+  * Interactive elements (like forms) on the website don’t need to be functional but should be present if they need to be for the visual aspect of the design
 * (optional) Good organisation
   * Version control using GitHub
   * Sensible commit messages
-
