@@ -180,6 +180,7 @@ Second, create and link a javascript file to the document
 
 ```
 ...
+
   <body>
   
     <script src="main.js"></script>
@@ -193,7 +194,9 @@ Fianlly, we can add jQuery to use with our javascript
 
 ```
 ...
+
   <body>
+  
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="main.js"></script>
   </body>
