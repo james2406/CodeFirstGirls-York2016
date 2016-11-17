@@ -150,5 +150,9 @@ if (age > 17) {
 ## Task Two - alert name and age
 
 1. Open the Developer Tools
-2. Create two prompts, one for age and one for name
-3. Display that using an alert
+2. Create a program which checks if the user is old enough to drive
+3. Display an appropriate alert if the can / can't
+
+# jQuery
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers
