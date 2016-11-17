@@ -220,7 +220,9 @@ $('.page_one').addClass('active');
 
 ## Lesson Three - using jquery with bootstrap
 
-jQ
+You can use all Bootstrap plugins purely through the markup API without writing a single line of JavaScript. This should be slightly familiar to you, as it works simililary to how you set up bootstap.css with your html
+
+So, to add Bootstrap.js, just include the CDN (or file location) under jQuery. Then add your personal .js file underneath (optional)
 
 ```
   <body>
@@ -231,3 +233,23 @@ jQ
   </body>
 </html>
 ```
+
+## Lesson Four - using jquery with bootstrap
+
+### Drop-down menus
+
+http://getbootstrap.com/javascript/#dropdowns 
+
+### Popup boxes 
+
+http://getbootstrap.com/javascript/#modals 
+
+### Image slideshows/carousels
+
+http://getbootstrap.com/javascript/#carousel 
+
+
+
+## Task Two - adding image carousel to site
+
+We're going to be adding an image slideshows, so if you don't want it on your site today you can add it to your Sam’s Sarnies site from last week!
