@@ -159,7 +159,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 
 ## Lesson One - adding javascript and jquery to your site
 
-First, create an index.html file using this template
+If you don't have a site to work on already, create an index.html file using this template
 
 ```
 <!DOCTYPE html>
@@ -174,9 +174,7 @@ First, create an index.html file using this template
 </html>
 ```
 
-Second, create and link a javascript file to the document
-
-(this is added to the body, as it will wait for all of the html to load before it runs)
+Create and link a javascript file to the document (this is added to the body, as it will wait for all of the html to load before it runs)
 
 ```
   <body>
@@ -186,9 +184,7 @@ Second, create and link a javascript file to the document
 </html>
 ```
 
-Fianlly, we can add jQuery to use with our javascript
-
-(it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
+Wwe ca then add jQuery to use with our javascript (it is put above our main.js file as it needs to run before, as our main.js file will be accessing it)
 
 ```
   <body>
