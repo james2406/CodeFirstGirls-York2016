@@ -238,17 +238,11 @@ So, to add Bootstrap.js, just include the CDN (or file location) under jQuery. T
 
 ## Lesson Four - using jquery with bootstrap
 
-Dropdown menus - Add dropdown menus to nearly anything with this simple plugin, including the navbar, tabs, and pills
+[Dropdown menus](http://getbootstrap.com/javascript/#dropdowns) - Add dropdown menus to nearly anything with this simple plugin, including the navbar, tabs, and pills
 
-http://getbootstrap.com/javascript/#dropdowns 
+[Popup boxes](http://getbootstrap.com/javascript/#modals) - Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults 
 
-Popup boxes - Modals are streamlined, but flexible, dialog prompts with the minimum required functionality and smart defaults
-
-http://getbootstrap.com/javascript/#modals 
-
-Image slideshows/carousels - A slideshow component for cycling through elements, like a carousel
-
-http://getbootstrap.com/javascript/#carousel 
+[Image slideshows/carousels](http://getbootstrap.com/javascript/#carousel ) - A slideshow component for cycling through elements, like a carousel
 
 ## Task One - adding image carousel to site
 
