@@ -82,7 +82,7 @@ We can then expand on that by setting prompt to a variable, and alerting that on
 ```
 var name = prompt();
 
-var alert(name);
+alert(name);
 ```
 
 We can then expand on that, by passing a parameter to prompt() and concatenating two strings together
@@ -90,7 +90,7 @@ We can then expand on that, by passing a parameter to prompt() and concatenating
 ```
 var name = prompt("What is your name?");
 
-var alert("Your name is " + name);
+alert("Your name is " + name);
 ```
 
 ## Task One - alert name and age
