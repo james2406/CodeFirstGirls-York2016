@@ -95,8 +95,60 @@ alert("Your name is " + name);
 
 ## Task One - alert name and age
 
-
+1. Open the Developer Tools
+2. Create two prompts, one for age and one for name
+3. Display that using an alert
 
 ## Lesson Three - javascript if/else statements
 
 // crtl + enter / shift + enter
+
+In javascript we can create code that only runs when conditions are true. This is done by writting an 'if statement'
+
+1. if - statement type
+2. brackets - where our condition goes
+2. code - within the curly brackets
+
+```
+if () {
+  // code goes here
+}
+```
+
+So, we can create a program what checks a users age on whether they are allowed to drink
+
+```
+var age = prompt("How old are you?");
+
+if (age > 17) {
+  alert("Welcome to the party!");
+}
+
+if (age < 17) {
+  alert("Sorry, you're not old enough");
+}
+```
+
+However, what if the user is 18? We could fix it like this
+
+```
+if (age >= 18) {
+```
+
+Or we could use an else statement. So, if this doesn't work, do this
+
+```
+var age = prompt("How old are you?");
+
+if (age > 17) {
+  alert("Welcome to the party!");
+} else {
+  alert("Sorry, you're not old enough");
+}
+```
+
+## Task Two - alert name and age
+
+1. Open the Developer Tools
+2. Create two prompts, one for age and one for name
+3. Display that using an alert
