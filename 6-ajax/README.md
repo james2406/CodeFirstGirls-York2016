@@ -1,5 +1,7 @@
 # AJAX
 
+Firstly, download the website.zip from [here](https://drive.google.com/open?id=0B6i1g6ETAjs6UHlqZjRBR2tBcEU)
+
 ## Lesson One - plugins
 
 ### Google Analytics
