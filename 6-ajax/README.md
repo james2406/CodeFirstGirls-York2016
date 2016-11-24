@@ -18,7 +18,7 @@ To use Google Analytics you need to place JS Plug-In, a snippet of JavaScript, (
 
 Google Forms uses the &lt;style&gt;iframe&lt;/style&gt; tag to embed a mini-form document into your web page, where you want it. This can be a quick and easy way to collect information from users on your website via online forms.
 
-1. Create a google form adding in your own content to the form
+1. Create a google form adding your own content to the form
 2. Make it available by clicking on the “Send” button in the top right corner of the screen and click the “&lt;style&gt;&lt;/style&gt;” icon to “Embed HTML”
 3. Copy and paste the link provided by this icon
 
@@ -39,7 +39,7 @@ We can use AJAX to interact with an API. But what is AJAX and what is an API?
 
 An API (Application Programming Interface) is best thought of as a contract provided by one piece of computer software to another
 
-Your website would send a request to an API (in a structured format), and it with a structured response. The structure of request and response would be documented upfront by the API we us and is likely to remain constant
+Your website would send a request to an API (in a structured format), and it with a structured response. The structure of request and response would be documented up front by the API we us and is likely to remain constant
 
 So, instead of our website opening [DarkSky](https://darksky.net/) and reading the webpage like a human does, interpreting the content. We can use the API they provide to easily traverse the data
 
@@ -49,7 +49,7 @@ Sign up to use this API [here](https://darksky.net/dev/register)
 
 The format returned by the API's we will be using is known as JSON. JSON is a way of sharing data (usually between the browser and a server)
 
-JSON returns the data to JavaScript in an the form of an Object, which JavaScript understands, and can then store, manipulate and use that data on your site. An Object is just a really easy and convenient way to store data in JavaScript
+JSON returns the data to JavaScript in the form of an Object, which JavaScript understands, and can then store, manipulate and use that data on your site. An Object is just a really easy and convenient way to store data in JavaScript
 
 ```
 var person = {
@@ -65,15 +65,15 @@ alert("I am " + person.age + " years old");
 
 We connect to an API using AJAX. AJAX stands for Asynchronous Javascript and XML and supports partial updates to pages without having to post the entire page back to the server.
 
-There are plenty of options for AJAX. The two most notable are Microsoft's ASP.NET AJAX (formerly Atlas) and jQuery (which we'll be using!). It is is easy to set up with jQuery, and allows very granular control over the querying and updating of your page
+There are plenty of options for AJAX. The two most notable are Microsoft's ASP.NET AJAX (formerly Atlas) and jQuery (which we'll be using!). It is easy to set up with jQuery and allows very granular control over the querying and updating of your page
 
-To make an ajax request we start by writting some jQuery
+To make an ajax request we start by writing some jQuery
 
 ```
 $.ajax();
 ```
 
-We then give it an object, which will be it's options
+We then give it an object, which will be its options
 
 ```
 $.ajax({
@@ -82,7 +82,7 @@ $.ajax({
 });
 ```
 
-Now, to recieve and store the response we use a success option
+Now, to receive and store the response we use a success option
 
 ```
 $.ajax({
@@ -113,7 +113,7 @@ An Array object is used to store multiple values in a single variable
 var people = ["James", "Mike"]
 ```
 
-Array indexes are zero-based: The first element in the array is 0, the second is 1, and so on. So, to take Mike's name out of the array we would do
+Array indexes are zero-based: The first element in an array is 0, the second is 1, and so on. So, to take Mike's name out of the array we would do
 
 ```
 var people = ["James", "Mike"]
