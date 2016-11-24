@@ -1,10 +1,6 @@
 # AJAX
 
-AJAX i
-
 ## Lesson One - plugins
-
-Plugins make it really easy to..
 
 ### Google Analytics
 
@@ -18,16 +14,125 @@ To use Google Analytics you need to place JS Plug-In, a snippet of JavaScript, (
 
 ### Google Forms
 
-sdsadsa
+Google Forms uses the &lt;style&gt;iframe&lt;/style&gt; tag to embed a mini-form document into your web page, where you want it. This can be a quick and easy way to collect information from users on your website via online forms.
+
+1. Create a google form adding in your own content to the form
+2. Make it available by clicking on the “Send” button in the top right corner of the screen and click the “&lt;style&gt;&lt;/style&gt;” icon to “Embed HTML”
+3. Copy and paste the link provided by this icon
+
 ### Github Pages
 
-A
+Remember in Session 1 we previously introduced you to Domain Names? In case you need a quick recap, in order to put up your own website at your own domain name you need two things:
+
+1. A web server to serve your site
+2. A domain name to point towards it
+
+As you’ve been working with Github and publishing your sites via Github pages we wanted to give you some more guidance on setting up a custom domain using [Github Pages](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/)
 
 ## Lesson Two - api's
 
-```
-var x = 1;
-x + 2
+### API
 
-// 3
+We can use AJAX to interact with an API. But what is AJAX and what is an API?
+
+An API (Application Programming Interface) is best thought of as a contract provided by one piece of computer software to another
+
+Your website would send a request to an API (in a structured format), and it with a structured response. The structure of request and response would be documented upfront by the API we us and is likely to remain constant
+
+So, instead of our website opening [DarkSky](https://darksky.net/) and reading the webpage like a human does, interpreting the content. We can use the API they provide to easily traverse the data
+
+Sign up to use this API [here](https://darksky.net/dev/register)
+
+### JSON
+
+The format returned by the API's we will be using is known as JSON. JSON is a way of sharing data (usually between the browser and a server)
+
+JSON returns the data to JavaScript in an the form of an Object, which JavaScript understands, and can then store, manipulate and use that data on your site. An Object is just a really easy and convenient way to store data in JavaScript
+
+```
+var person = {
+  "name": "James",
+  "age": 20
+}
+
+alert("My name is " + person.name);
+alert("I am " + person.age + " years old");
+```
+
+## Lesson Three - ajax (part 1)
+
+We connect to an API using AJAX. AJAX stands for Asynchronous Javascript and XML and supports partial updates to pages without having to post the entire page back to the server.
+
+There are plenty of options for AJAX. The two most notable are Microsoft's ASP.NET AJAX (formerly Atlas) and jQuery (which we'll be using!). It is is easy to set up with jQuery, and allows very granular control over the querying and updating of your page
+
+To make an ajax request we start by writting some jQuery
+
+```
+$.ajax();
+```
+
+We then give it an object, which will be it's options
+
+```
+$.ajax({
+  type: 'GET',
+  url: 'https://api.json.com/request/'
+});
+```
+
+Now, to recieve and store the response we use a success option
+
+```
+$.ajax({
+  type: 'GET',
+  url: 'https://api.darksky.net/forecast/37.8267,-122.4233',
+  success: function(data) {}
+});
+```
+
+And we can access that data like so
+```
+$.ajax({
+  type: 'GET',
+  url: 'https://api.darksky.net/forecast/37.8267,-122.4233',
+  success: function(data) {
+    alert(data.timezone);
+  }
+});
+```
+
+## Lesson Four - ajax (part 2)
+
+Some of this weather data is useful, but is stored in an array object - meaning that we have to iterate over it to access each variable
+
+An Array object is used to store multiple values in a single variable
+
+```
+var people = ["James", "Mike"]
+```
+
+Array indexes are zero-based: The first element in the array is 0, the second is 1, and so on. So, to take Mike's name out of the array we would do
+
+```
+var people = ["James", "Mike"]
+
+alert( people[1] );
+```
+
+To iterate over array we can use jQuery. As an example we will iterate over the "daily" value from the API, to get the "summary"
+
+```
+$.ajax({
+  type: 'GET',
+  url: 'https://api.darksky.net/forecast/37.8267,-122.4233',
+  success: function(data) {
+    var summary = "";
+    
+    $.each(data.daily.data, function(index, value) {
+      summary += value.summary;
+    });
+    
+    alert(summary);
+  }
+});
 ```
