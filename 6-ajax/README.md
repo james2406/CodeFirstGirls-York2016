@@ -1,36 +1,32 @@
-# JavaScript
+# AJAX
 
-JavaScript is a high-level, dynamic, untyped, and interpreted programming language.It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production; the majority of websites employ it, and all modern Web browsers support it without the need for plug-ins
+AJAX i
 
-What is programming:
+## Lesson One - plugins
 
-1. Programming is the way humans tell computers to do logical things for them in a systematic fashion. It lets humans create ways for other people to interact using computers
-2. There are a wide variety of programming languages, BUT to decide which to use, we need to decide what we want to use it FOR, and then pick the language best suited for the use
+Plugins make it really easy to..
 
-JavaScript is powerful because it is:
+### Google Analytics
 
-1. multi-paradigm (can accommodate a range of thinking/programming styles)
-2. prototype-based (things defined can be changed easily)
-3. designed to be used for the Web 
-4. also is a full-stack language (can be used both on the client / server)
+Google Analytics is an analytics service provided for free by Google. It allows you get an overview of how many people are visiting your site, where they come from and what they do on your site
 
-To being, open up the Chrome developer tools (make sure you're on the console tab)
+To use Google Analytics you need to place JS Plug-In, a snippet of JavaScript, (that they provide) on each of the HTML pages on your site. When a user visits the page, the javascript sends a message to the Google Analytics site logging the visit
 
-## Lesson One - javascript variables
+1. Set up a Google Analytics account [here](https://analytics.google.com)
 
-A variable is a way to store a value for later on
+2. Go to the Admin section and create an account for your site
 
-Similar to algebra, we can set x to equal 1
+3. Click on the Tracking Info under the Property section, click on “Tracking Code” and install the analytics code on all the pages of your site
 
-To do this in javascript we would write the letters 'var'
+### Google Forms
 
-Each line is then closed with a semi colon 
 
-```
-var x = 1;
-```
 
-Then we perform actions on this variable such as +(add) -(minus) *(times) /(divide)
+### Github Pages
+
+A
+
+## Lesson Two - api's
 
 ```
 var x = 1;
