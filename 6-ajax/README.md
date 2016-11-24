@@ -129,10 +129,32 @@ $.ajax({
     var summary = "";
     
     $.each(data.daily.data, function(index, value) {
-      summary += value.summary;
+      summary = summary + value.summary;
     });
     
     alert(summary);
+  }
+});
+```
+
+## Lesson Five - ajax (part 3)
+
+Finally, if you want to add this list to your page you can do the following
+
+```
+$.ajax({
+  type: 'GET',
+  url: 'https://api.darksky.net/forecast/37.8267,-122.4233',
+  success: function(data) {
+    var summary = "<ul>";
+    
+    $.each(data.daily.data, function(index, value) {
+      summary += "<li>" + value.summary + "</li>";
+    });
+    
+    summary += "</ul>";
+    
+    $('.list').html(summary);
   }
 });
 ```
