@@ -6,8 +6,8 @@ Skills you'll practice include:
 * [CSS](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/2-css)
 * [Github](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/3-github)
 * [Bootstrap](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/4-bootstrap)
-* JavaScript
-* jQuery
+* [JavaScript](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/5-javascript)
+* [AJAX](https://github.com/james2406/CodeFirstGirls-York2016/tree/master/6-ajax)
 
 This will be a great place where you'll be able to see a summary of what we've taught you and tasks set in the lessons. If there are any problems feel free to either message me or Mike!
 
